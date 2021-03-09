@@ -2,8 +2,8 @@ def my_hash
   your_hash = {"key1" => "value1", "key1" => "value2"}
 end
 
-def the_shipping_manifest
-  shipping_manifest = {
+def shipping_manifest
+  the_manifest = {
     "whale bone corsets" => 5,
     "porcelain vases" => 2,
     "oil paintings" => 3
